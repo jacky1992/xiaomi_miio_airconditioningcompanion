@@ -1,0 +1,16 @@
+{
+  "domain": "xiaomi_miio_airconditioningcompanionmcn02",
+  "name": "Xiaomi Air Conditioning Companion 2",
+  "documentation": "https://github.com/EugeneLiu/xiaomi_airconditioningcompanionMCN02",
+  "issue_tracker": "https://github.com/EugeneLiu/xiaomi_airconditioningcompanionMCN02/issues",
+  "version": "0.2.0",
+  "requirements": [
+    "python-miio>0.5.3"
+  ],
+  "dependencies": [],
+  "codeowners": [
+    "@EugeneLiu"
+  ],
+  "iot_class": "local_polling",
+  "integration_type": "device"
+}
