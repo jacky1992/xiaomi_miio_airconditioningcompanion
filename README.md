@@ -1,0 +1,2 @@
+# xiaomi_miio_airconditioningcompanion
+米家空调伴侣2_HomeAssistant插件
